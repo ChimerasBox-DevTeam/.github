@@ -2,32 +2,32 @@
  ## Here you can find the repos for the the mod.
 --------------------------------------------
 ## The Directors:
-SpeedyVibes - Director
-KrowSZ - Director
-SonyBara - Director
-ZeroXSP - Director
-GeoIGuess - EX Director
-## The Programmers:
-JamesTech - Haxe Programmer
-Shaggy3760 - Lua Programmer
-## The Artists:
-Angel - Artist
-Creepz - Pixel Artist
-grapegaming.exe - Pixel Artist
-Donkeythe1st - Artist
-Silver - Concept Artist
-## The Animators:
-Geo - Animator
-Angel - Animator
-## The Musicians:
-Angel - Musician
-Harbinger - Musician
-Geo - Musician
-SpeedyVibes - Musician
-## The Voice Actors:
-SonyBara
 SpeedyVibes
+KrowSZ,
+SonyBara,
+ZeroXSP,
+GeoIGuess
+## The Programmers:
+JamesTech,
+Shaggy3760
+## The Artists:
+Angel,
+Creepz,
+grapegaming.exe,
+Donkeythe1st,
+Silver,
+## The Animators:
+GeoIGuess,
+Angel
+## The Musicians:
+Angel,
+Harbinger,
+GeoIGuess,
+SpeedyVibes
+## The Voice Actors:
+SonyBara,
+SpeedyVibes,
 ZeroXSP
 ## The Charters:
-ZeroXSP
+ZeroXSP,
 KrowSZ
