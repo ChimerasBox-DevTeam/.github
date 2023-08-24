@@ -1,6 +1,5 @@
 # The Dev team for Just Another EXE Mod.
- ## Here you can find the repos for the the mod.
---------------------------------------------
+Here you can find the repos for the the mod.
 ## The Directors:
 SpeedyVibes
 KrowSZ,
