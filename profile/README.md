@@ -15,9 +15,11 @@ Creepz,
 grapegaming.exe,
 Donkeythe1st,
 Silver,
+HYPER STRIKE2000
 ## The Animators:
 GeoIGuess,
-Angel
+Angel,
+HYPER STRIKE2000
 ## The Musicians:
 Angel,
 Harbinger,
