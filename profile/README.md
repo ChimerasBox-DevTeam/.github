@@ -7,7 +7,7 @@ SonyBara,
 ZeroXSP,
 GeoIGuess
 ## The Programmers:
-JamesTech,
+(Missing People)
 Shaggy3760
 ## The Artists:
 Angel,
